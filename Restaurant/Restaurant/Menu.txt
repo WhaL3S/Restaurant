@@ -1,0 +1,19 @@
+﻿Spring Rolls;Starter;2.99
+French Onion Soup;Starter;3.99
+Tomato Bruschetta;Starter;2.99
+Caesar Salad;Starter;1.99
+Grilled Salmon;Main;5.99
+Roast Beef;Main;5.99
+Chicken Pie;Main;4.99
+Vegetarian Curry;Main;3.99
+Eggplant Lasagne;Main;3.99
+Apple Pie;Dessert;1.99
+Lemon Meringue Pie;Dessert;2.99
+Vanilla Ice Cream;Dessert;0.99
+Crepe Suzette;Dessert;1.99
+Fruit Salad;Dessert;0.99
+Coffee;Drink;0.89
+Tea;Drink;0.79
+Vodka;Drink;2.99
+Wine;Drink;3.99
+Whiskey;Drink;2.99

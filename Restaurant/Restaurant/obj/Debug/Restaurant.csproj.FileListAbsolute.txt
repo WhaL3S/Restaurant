@@ -1,0 +1,14 @@
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form2.resources
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form3.resources
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form4.resources
+C:\Users\WhaLeS\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Form5.resources
